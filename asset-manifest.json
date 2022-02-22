@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.cde98a97.css",
+    "main.js": "/static/js/main.53778fa2.js",
+    "static/js/787.802a39d6.chunk.js": "/static/js/787.802a39d6.chunk.js",
+    "static/media/homepageimg.svg": "/static/media/homepageimg.977ff37df50876735048ec9f0cc96222.svg",
+    "static/media/logoComuneDiPalermo.svg": "/static/media/logoComuneDiPalermo.ffb59121f2af55a3e8a12b08076bb6e9.svg",
+    "index.html": "/index.html",
+    "main.cde98a97.css.map": "/static/css/main.cde98a97.css.map",
+    "main.53778fa2.js.map": "/static/js/main.53778fa2.js.map",
+    "787.802a39d6.chunk.js.map": "/static/js/787.802a39d6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cde98a97.css",
+    "static/js/main.53778fa2.js"
+  ]
+}
